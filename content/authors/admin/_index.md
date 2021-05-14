@@ -50,13 +50,13 @@ social:
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+# and uncomment the lines below. why
 - icon: cv
   icon_pack: ai
   link: Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "liuhao@wustl.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
