@@ -51,9 +51,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- #- icon: cv
- # icon_pack: ai
- #  link: media/resume.pdf
+ - icon: cv
+  icon_pack: ai
+   link: media/Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,4 +64,4 @@ highlight_name: false
 
 Hao Liu is a second year PhD student working with Professor Yixin Chen in Washington University in Saint Louis. Her research interests include meta-learning, multi-task learning and machine learning for healthcare. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
