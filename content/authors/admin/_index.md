@@ -64,4 +64,4 @@ highlight_name: false
 
 Hao Liu is a second year PhD student working with Professor Yixin Chen in Washington University in Saint Louis. Her research interests include meta-learning, multi-task learning and machine learning for healthcare. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
