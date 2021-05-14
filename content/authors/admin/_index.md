@@ -53,7 +53,7 @@ social:
 # and uncomment the lines below. why
 - icon: cv
   icon_pack: ai
-  link: Resume.pdf
+  link: media/Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "liuhao@wustl.edu"
@@ -64,4 +64,4 @@ highlight_name: false
 
 Hao Liu is a second year PhD student working with Professor Yixin Chen in Washington University in Saint Louis. Her research interests include meta-learning, multi-task learning and machine learning for healthcare. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
