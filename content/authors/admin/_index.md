@@ -6,7 +6,7 @@ title: Hao Liu
 superuser: true
 
 # Role/position/tagline
-role: 2nd Year PhD Student of Computer Science
+role: 3rd Year PhD Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -53,7 +53,7 @@ social:
 # and uncomment the lines below. why
 - icon: cv
   icon_pack: ai
-  link: media/Resume.pdf
+  link: media/CV of Hao Liu(0426.2022).pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "liuhao@wustl.edu"
